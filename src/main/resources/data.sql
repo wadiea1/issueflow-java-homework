@@ -1,0 +1,1 @@
+-- No seed data. Create the first user with POST /users.

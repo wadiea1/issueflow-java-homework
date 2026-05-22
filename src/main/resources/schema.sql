@@ -1,0 +1,1 @@
+-- Schema is managed by Hibernate using spring.jpa.hibernate.ddl-auto=update.
