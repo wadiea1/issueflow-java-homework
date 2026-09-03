@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e8eef7,50:cfe0f5,100:b5cdea&height=200&section=header&text=IssueFlow&fontSize=58&fontColor=1a1a2e&animation=fadeIn&fontAlignY=35&desc=Issue%20Tracking%20REST%20API%20%E2%80%94%20Java%2021%20%C2%B7%20Spring%20Boot%20%C2%B7%20PostgreSQL&descSize=16&descAlignY=55&descColor=2d3748" width="100%"/>
+<img src="https://raw.githubusercontent.com/wadiea1/issueflow-java-homework/main/.github/banner.svg" alt="IssueFlow — Issue Tracking REST API" width="100%"/>
 
 <p>
   <img src="https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 21"/>
@@ -287,5 +287,4 @@ Software Engineering — Braude College of Engineering
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:b5cdea,50:cfe0f5,100:e8eef7&height=120&section=footer" width="100%"/>
 </div>
